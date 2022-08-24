@@ -6,3 +6,4 @@ Thingverse Link for a good case
 
 https://www.thingiverse.com/thing:3472197
 
+Scale icons down to around 50 pixels and they should fit very well with some wiggle room
